@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/static/css/main.bbce1e86.css",
+    "main.js": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/static/js/main.4b1cbc70.js",
+    "index.html": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/index.html",
+    "static/media/delete.svg": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.bbce1e86.css.map": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/static/css/main.bbce1e86.css.map",
+    "main.4b1cbc70.js.map": "/C:/Users/JUSTO%20QUINTERO/Documents/cursos%20empresa/reactjs/curso-react-intro/build/static/js/main.4b1cbc70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbce1e86.css",
+    "static/js/main.4b1cbc70.js"
+  ]
+}
